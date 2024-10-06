@@ -1,4 +1,4 @@
-Hi, I'm @GustavAlbrecht.
+Hi, i'm @GustavAlbrecht.
 
 <!-- 
 - 👋 Hi, I’m @GustavAlbrecht
