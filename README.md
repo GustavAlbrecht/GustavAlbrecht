@@ -1,4 +1,4 @@
-Hi, I'm @GustavAlbrecht. I'm interested in [Solana](https://github.com/solana-labs/solana).
+Hi, I'm @GustavAlbrecht.
 
 <!-- 
 - 👋 Hi, I’m @GustavAlbrecht
